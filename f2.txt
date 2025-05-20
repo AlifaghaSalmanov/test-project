@@ -1,1 +1,3 @@
 Dev kodu
+SERVER_PASSWORDfsdf
+
