@@ -1,0 +1,11 @@
+f4.txt
+
+# empty.txt
+# empty2.txt
+# empty3.txt
+
+empty*
+
+*.py
+
+!main.py
